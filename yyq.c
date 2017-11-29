@@ -10,3 +10,5 @@ int main()
 
 
 func main()
+
+add()

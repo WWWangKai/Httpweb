@@ -16,3 +16,5 @@ add()
 sub
 
 Mul
+
+Div

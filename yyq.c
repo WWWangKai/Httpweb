@@ -6,3 +6,7 @@ int main()
     printf("%d", a);
     return 0;
 }
+
+
+
+func main()

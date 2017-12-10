@@ -8,6 +8,7 @@ int main()
 }
 
 
+func hello world()
 
 func main()
 

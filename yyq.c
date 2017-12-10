@@ -6,3 +6,16 @@ int main()
     printf("%d", a);
     return 0;
 }
+
+
+func hello world()
+
+func main()
+
+add()
+
+sub
+
+Mul
+
+Div
